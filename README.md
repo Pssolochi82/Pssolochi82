@@ -78,3 +78,4 @@ Cypress • JavaScript • Capybara • Gherkin • Cucumber • BDD
 ---
 
 <p align="center"><em>“Tecnologia com responsabilidade e propósito.”</em></p>
+ 
