@@ -66,6 +66,8 @@ Cypress • JavaScript • Capybara • Gherkin • Cucumber • BDD
 
 - 📧 (mailto:psolochi2016@gmail.com.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/palmira-solochi-79a1a3317/)
+- site: www.palmirasolochi.com
+- 
 ---
 
 ## ✨ Curiosidades
