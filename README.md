@@ -34,7 +34,7 @@ I am especially interested in:
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cobol,cpp,java,cs,js,php,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,js,php,html,css,sql" />
 </p>
 
 ### Frameworks and Technologies
