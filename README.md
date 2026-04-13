@@ -1,82 +1,115 @@
-<p align="center">
-  <img src="assets/banner-palmira.png" alt="Palmira Solochi - QA & Mainframe Developer" width="100%" />
-</p>
-
-<h1 align="center">👩‍💻 Palmira Solochi</h1>
-
-<p align="center"><strong>QA Profissional | Programadora em Formação (COBOL, Mainframe, Backend Java)</strong><br>
-📍 Portugal 🇵🇹 | 💬 Inglês Intermédio | 🇫🇷 Francês Técnico Básico</p>
+<h1 align="center">Hi there, I'm Palmira Solochi 👋</h1>
+<h3 align="center">Junior Software Developer | COBOL & Mainframe | Backend | QA Background</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-QA%20Profissional-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Em%20Formação-COBOL%20%7C%20Java-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Testes-Manuais%20%26%20Automatizados-brightgreen?style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4DA6FF&center=true&vCenter=true&width=900&lines=Junior+Software+Developer;COBOL+%26+Mainframe+Enthusiast;Backend+and+Web+Development;Former+QA+with+Automation+Experience;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
 ---
 
-> ✨ *“Qualidade, segurança e legado: a minha base como QA e futura programadora Mainframe.”*
+## 🚀 About Me
 
-Sou apaixonada por tecnologia e atualmente estou em transição de carreira da área do Direito para Tecnologia da Informação,onde encontrei a combinação perfeita entre lógica,estrutura e resolução de problemas.
+I am a Junior Software Developer with a background in QA and test automation, currently focused on building a strong path in software development.
 
-Com uma sólida experiência anterior em contextos jurídicos e administrativos, desenvolvi competências como análise minuciosa ao detalhe e comunicação clara, qualidades que hoje aplico em Quality Assurance(QA) e programação.
+I recently completed my programming training and have been developing projects in **COBOL,JCL,DB2, C, C++, Java, C#, ASP.NET Core MVC, Python, SQL, JavaScript, React, Node.js, Express, Prisma, and MySQL**.
 
- Tenho formação concluída em **Quality Assurance (QA)**, atualmente aprofundo os meus conhecimentos em **COBOL,Mainframe e Backend Java** para atuar em ambientes corporativos exigentes.
-
-💼 Experiência com testes manuais e automatizados (Selenium, Cypress, Cucumber, BDD).  
-🧠 Perfil tradicional, focada em boas práticas, clareza no código e disciplina de trabalho.
-
----
-
-## 🌱 Em aprendizagem
-
-- 📀 **COBOL, JCL, TSO/ISPF e Zowe CLI**
-- 🧰 **SQL e Administração de Bases de Dados**
-- ☕ **Java e ASP.NET Core MVC para aplicações Web**
-- 🔐 **Segurança no Desenvolvimento de Software**
-- 🌍 **Francês técnico básico**
-- 🇬🇧 **Inglês intermédio (técnico e conversacional)**
+I am especially interested in:
+- Mainframe and COBOL development
+- Backend development
+- Reliable and efficient systems
+- Continuous learning and international career growth
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🌍 Current Focus
 
-```txt
-COBOL • JCL • SQL • TSO/ISPF • Visual Studio Code • Git • GitHub • IntelliJ • Eclipse 
-ASP.NET • Java • Zowe CLI • Postman • Selenium • OWASP ZAP • Jira • Xray 
-Cypress • JavaScript • Capybara • Gherkin • Cucumber • BDD
-```
-
----
-
-## 📌 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 💼 **Sistema de Gestão de Contas (Mainframe)** | Backend bancário simulado | COBOL, JCL, DB2 |
-| 🌐 **WebApp de Consulta de Clientes** | Interface com base de dados | ASP.NET, SQL |
-| 🧪 **Testes de Segurança em APIs** | Validação e hardening | Postman, OWASP ZAP |
-| ✅ **Testes Automatizados** | Projeto completo com BDD | Selenium, Cypress, JavaScript |
-
-*📂 Repositórios disponíveis em breve. Estou a organizar os códigos conforme a boa prática para apresentação.*
+- Learning and strengthening **COBOL, JCL, DB2, TSO/ISPF and Mainframe fundamentals**
+- Building a stronger **GitHub portfolio**
+- Improving my **English and French** for international opportunities
+- Creating practical software projects with real purpose
 
 ---
 
+## 🛠️ Languages and Tools
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cobol,cpp,java,cs,js,php,html,css,sql" />
+</p>
+
+### Frameworks and Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,bootstrap,tailwind,vite,css 3, sass,scss" />
+</p>
+
+### Databases and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman,db2" />
+</p>
+
+### QA / Testing Background
+<p>
+Manual Testing • Test Automation • Selenium • Postman • Jira • Xray • Cypress • Gherkin • Cucumber
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Re_Nascimento
+A web platform created with purpose — designed to support, inspire, and give voice to women through technology.
+
+### 🔹 Banco Simples (COBOL)
+A COBOL project created for portfolio development, focused on logic, structure, and business-oriented programming.
+
+### 🔹 Gastrologic
+A full-stack project developed as a team, combining recipe recommendations, nutrition logic, APIs, and user interaction.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pssolochi82&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pssolochi82&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pssolochi82&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 🌐 Portfolio: https://www.palmirasolochi.com
+- 💼 LinkedIn: https://www.linkedin.com/in/palmira-solochi-79a1a3317/?locale=pt
+- 📧 Email: contact@palmirasolochi.com 
+
+---
+
+## ✨ A Little More About Me
+
+- Former QA professional transitioning fully into software development
+- Strong interest in structured, reliable, and enterprise systems
+- Motivated by growth, discipline, and meaningful projects
+- Open to junior opportunities in software development, backend, and mainframe
+
+---
+
+<p align="center">
+  <i>"Building my future with consistency, purpose, and technology."</i>
+</p>
 ## 📫 Contacto
 
-- 📧 (mailto:psolochi2016@gmail.com.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/palmira-solochi-79a1a3317/)
-- site: www.palmirasolochi.com
-- 
----
 
-## ✨ Curiosidades
 
-- ✔️ Valorizo a **ética no trabalho** e o **respeito à hierarquia**.
-- 📚 Aprendizagem contínua faz parte do meu dia a dia.
-- 🌍 Foco em atuar em **ambientes financeiros exigentes** e projetos internacionais.
-- 🛡️ Experiência em QA fortaleceu minha **visão crítica e foco na prevenção de falhas**.
+## ✨ Professional Highlights
 
+- ✔️ Strong **work ethic**, discipline, and respect for structured environments.
+- 📚 Committed to continuous learning and professional growth.
+- 🌍 Interested in **financial systems**, enterprise environments, and international teams.
+- 🛡️ QA background providing strong **analytical thinking and defect prevention mindset**.
 ---
 
 <p align="center"><em>“Tecnologia com responsabilidade e propósito.”</em></p>
