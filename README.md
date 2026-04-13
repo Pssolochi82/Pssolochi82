@@ -100,8 +100,6 @@ A full-stack project developed as a team, combining recipe recommendations, nutr
 <p align="center">
   <i>"Building my future with consistency, purpose, and technology."</i>
 </p>
-## 📫 Contacto
-
 
 
 ## ✨ Professional Highlights
@@ -112,8 +110,4 @@ A full-stack project developed as a team, combining recipe recommendations, nutr
 - 🛡️ QA background providing strong **analytical thinking and defect prevention mindset**.
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pssolochi82/Pssolochi82/output/github-contribution-grid-snake.svg" />
-</p>
