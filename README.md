@@ -39,7 +39,7 @@ I am especially interested in:
 
 ### Frameworks and Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,bootstrap,tailwind,vite,css 3, sass,scss" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,bootstrap,tailwind,vite,prisma" />
 </p>
 
 ### Databases and Tools
@@ -112,5 +112,8 @@ A full-stack project developed as a team, combining recipe recommendations, nutr
 - 🛡️ QA background providing strong **analytical thinking and defect prevention mindset**.
 ---
 
-<p align="center"><em>“Tecnologia com responsabilidade e propósito.”</em></p>
- 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pssolochi82/Pssolochi82/output/github-contribution-grid-snake.svg" />
+</p>
