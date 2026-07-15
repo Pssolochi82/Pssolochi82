@@ -1,57 +1,7 @@
-
-<h1 align="center">Hi there, I'm Palmira Solochi 👋</h1>
-<h3 align="center">Junior Software Developer | COBOL & Mainframe | Backend | QA Background</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4DA6FF&center=true&vCenter=true&width=900&lines=Junior+Software+Developer;COBOL+%26+Mainframe+Enthusiast;Backend+and+Web+Development;Former+QA+with+Automation+Experience;Always+Learning+and+Building" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 About Me
-
-I am a Junior Software Developer with a background in QA and test automation, currently focused on building a strong path in software development.
-
-I recently completed my programming training and have been developing projects in **COBOL,JCL,DB2, C, C++, Java, C#, ASP.NET Core MVC, Python, SQL, JavaScript, React, Node.js, Express, Prisma, and MySQL**.
-
-I am especially interested in:
-- Mainframe and COBOL development
-- Backend development
-- Reliable and efficient systems
-- Continuous learning and international career growth
-
----
-
-## 🌍 Current Focus
-
-- Learning and strengthening **COBOL, JCL, DB2, TSO/ISPF and Mainframe fundamentals**
-- Building a stronger **GitHub portfolio**
-- Improving my **English and French** for international opportunities
-- Creating practical software projects with real purpose
-
----
-
-## 🛠️ Languages and Tools
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,js,php,html,css,sql" />
-</p>
-
-### Frameworks and Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,bootstrap,tailwind,vite,prisma" />
-</p>
-
-### Databases and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman,db2" />
-</p>
-
 <h1 align="center">Hi, I'm Palmira Solochi 👋</h1>
 
 <h3 align="center">
-   Backend Developer | COBOL & Mainframe | Java | C# | Python | REST APIs | SQL
+  Junior Backend Developer | COBOL & Mainframe | Java | REST APIs | SQL
 </h3>
 
 <p align="center">
@@ -71,7 +21,7 @@ I am especially interested in:
 
 ## 👩🏽‍💻 About Me
 
-I am a ** Backend Developer** based in Porto, Portugal, with completed professional training in programming and a background in **Quality Assurance and test automation**.
+I am a **Junior Backend Developer** based in Porto, Portugal, with completed professional training in programming and a background in **Quality Assurance and test automation**.
 
 I develop structured and maintainable software solutions, with a particular interest in **backend development, COBOL/Mainframe technologies, REST APIs, databases, enterprise systems and financial environments**.
 
@@ -232,25 +182,6 @@ A software testing project created to demonstrate Quality Assurance and automate
 
 **Technologies:** Python, Flask, Selenium and Pytest.
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=Pssolochi82&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Palmira Solochi GitHub statistics"
-  />
-
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pssolochi82&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used programming languages"
-  />
-</p>
-
----
 
 ## 🌍 Open to Opportunities
 
@@ -267,7 +198,11 @@ I am open to junior opportunities in:
 🌍 **Mobility:** Open to relocation across Europe and internationally  
 💼 **Work preferences:** On-site, hybrid or remote opportunities  
 
-**Languages:** Portuguese — Native | English — Intermediate | French — In progress
+### 🗣️ Languages
+
+🇵🇹 **Portuguese:** Native  
+🇬🇧 **English:** Intermediate  
+🇫🇷 **French:** In progress
 
 ---
 
