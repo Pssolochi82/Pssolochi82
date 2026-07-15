@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Palmira Solochi 👋</h1>
 
 <h3 align="center">
-  Junior Backend Developer | COBOL & Mainframe | Java | REST APIs | SQL
+   Backend Developer | COBOL & Mainframe | Java | REST APIs | SQL
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=4DA6FF&center=true&vCenter=true&width=900&lines=Junior+Backend+Developer;COBOL+%26+Mainframe;Java+%7C+REST+APIs+%7C+SQL;Quality-Driven+Software+Development;Open+to+International+Relocation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=4DA6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;COBOL+%26+Mainframe;Java+%7C+REST+APIs+%7C+SQL;Quality-Driven+Software+Development;Open+to+International+Relocation"
     alt="Palmira Solochi professional profile"
   />
 </p>
